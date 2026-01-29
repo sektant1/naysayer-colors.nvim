@@ -2,7 +2,7 @@
 -- color palette
 local p = {
 	teal = "#062329",
-	lteal = "#7AD0C6",
+	lteal = "#00CED1",
 	blue = "#0000FF",
 	lblue = "#305CDE",
 	gold = "#D6B588",
